@@ -1,7 +1,7 @@
 ### Hi there, I'm Giselle, known as Gi :D
 
 - 🔭 I’m currently working at Routeasy as Full Stack developer.
-- 🌱 I’m currently learning more about Regex.
+- 🌱 I’m currently learning more about NextJS.
 - 👯 I’m looking to collaborate on ReactJs and Node projects.
 - 📫 How to reach me: [Twitter](https://twitter.com/gisouza_p) and [Linkedin](https://linkedin.com/gisouzap)
 
