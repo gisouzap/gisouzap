@@ -1,7 +1,7 @@
 ### Hi there, I'm Giselle, known as Gi :D
 
 - 🔭 I’m currently working at Routeasy as Front-End developer.
-- 🌱 I’m currently learning more about Svelte.
+- 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on ReactJs and Node projects.
 - 📫 How to reach me: [Linkedin](https://linkedin.com/gisouzap)
 
